@@ -154,11 +154,11 @@ python demo/demo_gradio.py
 
 ## Windows Support 
     
-    For deployment on Windows, please use WSL and Docker Desktop. See the [Windows Support](docs/windows_support.md) Guide for details.
+For deployment on Windows, please use WSL and Docker Desktop. See the [Windows Support](docs/windows_support.md) Guide for details.
 
 ## Quantization
 
-    This model can be quantized using AWQ. Follow the instructions in the [Quantization guide](docs/Quantization.md).
+This model can be quantized using AWQ. Follow the instructions in the [Quantization guide](docs/Quantization.md).
 
 ## Benchmark Results
 
