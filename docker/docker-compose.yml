@@ -1,7 +1,7 @@
 x-monkeyocr-base: &monkeyocr-base
   image: monkeyocr:latest
   volumes:
-    - model_data:/app/MonkeyOCR/model_weight
+    - new_model_data:/app/MonkeyOCR/model_weight
   environment:
     - TMPDIR=/app/tmp
     - CUDA_VISIBLE_DEVICES=0
