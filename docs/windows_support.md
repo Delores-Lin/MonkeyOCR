@@ -1,5 +1,5 @@
 # Running with WSL2 + Docker Desktop
-[En](./windows_support.md) | [Zh](./windows_support.zh.md)
+
 ## Installing WSL2 and Docker Desktop
 
 First, ensure your version of Windows supports WSL2.

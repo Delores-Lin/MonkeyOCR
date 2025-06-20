@@ -1,5 +1,5 @@
 # Quantization with AWQ
-[En](./Quantization.md) | [Zh](./Quantization.zh.md)
+
 1.  Install the required packages.
     ```bash
     pip install datasets
